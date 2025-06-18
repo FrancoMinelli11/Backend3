@@ -18,6 +18,9 @@ El proyecto contiene un Dockerfile que se encarga de construir una imagen de Nod
 - Swagger
 - Supertest
 
+###  Enlace a la imagen de Docker
+ - https://hub.docker.com/r/francol11/docker-backend3
+
 ### Instalación
 Para instalar las dependencias del proyecto, ejecuta el siguiente comando:
 
